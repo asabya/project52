@@ -17,6 +17,7 @@ Here are the constraints of Project52.
 ## Progress (02/02/2020~)
 
 1. (08/02/2020)[https://github.com/Sab94/go-watch-solidity](https://github.com/Sab94/go-watch-solidity) A solidity file watcher to compile and generate abi, bin and gobinging
+2. (16/02/2020)[https://github.com/Sab94/go-udemy-dl](https://github.com/Sab94/go-udemy-dl) Go Udemy Downloader is another udemy downloader written in go for personal offline use.
 
 ## Provide Idea or Encourage..
 
