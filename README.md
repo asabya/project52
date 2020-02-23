@@ -18,6 +18,7 @@ Here are the constraints of Project52.
 
 1. (08/02/2020)[https://github.com/Sab94/go-watch-solidity](https://github.com/Sab94/go-watch-solidity) A solidity file watcher to compile and generate abi, bin and gobinging
 2. (16/02/2020)[https://github.com/Sab94/go-udemy-dl](https://github.com/Sab94/go-udemy-dl) Go Udemy Downloader is another udemy downloader written in go for personal offline use.
+3. WIP : (24/02/2020)[https://github.com/Sab94/go-deploy-contract](https://github.com/Sab94/go-deploy-contract)Go Deploy Smart Contract is a smart contract deployer to any given test or main network.
 
 ## Provide Idea or Encourage..
 
