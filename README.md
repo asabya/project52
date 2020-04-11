@@ -21,6 +21,7 @@ Here are the constraints of Project52.
 3. WIP : (24/02/2020)[https://github.com/Sab94/go-deploy-contract](https://github.com/Sab94/go-deploy-contract) Go Deploy Smart Contract is a smart contract deployer to any given test or main network.
 4. (02/03/2020)[https://github.com/Sab94/go-worker](https://github.com/Sab94/go-worker) go-worker is a work queue to run tasks in go routines
 5. (29/03/2020)[https://github.com/Sab94/uds](https://github.com/Sab94/uds) unix domain socket implementation in go
+6. (11/04/2020)[https://github.com/Sab94/udspubsub](https://github.com/Sab94/udspubsub) pubsub implementation using unix domain socket in golang
 
 ## Provide Idea or Encourage..
 
