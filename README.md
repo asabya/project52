@@ -16,13 +16,14 @@ Here are the constraints of Project52.
 
 ## Progress (02/02/2020~)
 
-1. (08/02/2020)[https://github.com/Sab94/go-watch-solidity](https://github.com/Sab94/go-watch-solidity) A solidity file watcher to compile and generate abi, bin and gobinging
-2. (16/02/2020)[https://github.com/Sab94/go-udemy-dl](https://github.com/Sab94/go-udemy-dl) Go Udemy Downloader is another udemy downloader written in go for personal offline use.
-3. WIP : (24/02/2020)[https://github.com/Sab94/go-deploy-contract](https://github.com/Sab94/go-deploy-contract) Go Deploy Smart Contract is a smart contract deployer to any given test or main network.
-4. (02/03/2020)[https://github.com/Sab94/go-worker](https://github.com/Sab94/go-worker) go-worker is a work queue to run tasks in go routines
-5. (29/03/2020)[https://github.com/Sab94/uds](https://github.com/Sab94/uds) unix domain socket implementation in go
-6. (11/04/2020)[https://github.com/Sab94/udspubsub](https://github.com/Sab94/udspubsub) pubsub implementation using unix domain socket in golang
+1. (08/02/2020) [https://github.com/Sab94/go-watch-solidity](https://github.com/Sab94/go-watch-solidity) A solidity file watcher to compile and generate abi, bin and gobinging
+2. (16/02/2020) [https://github.com/Sab94/go-udemy-dl](https://github.com/Sab94/go-udemy-dl) Go Udemy Downloader is another udemy downloader written in go for personal offline use.
+3. WIP : (24/02/2020) [https://github.com/Sab94/go-deploy-contract](https://github.com/Sab94/go-deploy-contract) Go Deploy Smart Contract is a smart contract deployer to any given test or main network.
+4. (02/03/2020) [https://github.com/Sab94/go-worker](https://github.com/Sab94/go-worker) go-worker is a work queue to run tasks in go routines
+5. (29/03/2020) [https://github.com/Sab94/uds](https://github.com/Sab94/uds) unix domain socket implementation in go
+6. (11/04/2020) [https://github.com/Sab94/udspubsub](https://github.com/Sab94/udspubsub) pubsub implementation using unix domain socket in golang
 7. (12/04/2020) [https://github.com/Sab94/udsws](https://github.com/Sab94/udsws) websocket implementation using unix domain socket in golang
+8. (18/04/2020) [https://github.com/Sab94/libp2p-kad-dht-trail](https://github.com/Sab94/libp2p-kad-dht-trail) Hello world local libp2p network with kad-dht rendezvous discovery
 
 ## Provide Idea or Encourage..
 
