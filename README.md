@@ -25,6 +25,7 @@ Here are the constraints of Project52.
 7. (12/04/2020) [https://github.com/Sab94/udsws](https://github.com/Sab94/udsws) websocket implementation using unix domain socket in golang
 8. (18/04/2020) [https://github.com/Sab94/libp2p-kad-dht-trail](https://github.com/Sab94/libp2p-kad-dht-trail) Hello world local libp2p network with kad-dht rendezvous discovery
 9. (26/04/2020) [https://github.com/Sab94/go48](https://github.com/Sab94/go48) Yet another 2048 using go
+10. WIP : (17/05/2020) [https://github.com/Sab94/ipfs-monitor](https://github.com/Sab94/ipfs-monitor) monitor your ipfs node on terminal
 
 ## Provide Idea or Encourage..
 
